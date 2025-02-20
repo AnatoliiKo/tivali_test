@@ -1,3 +1,4 @@
+import './App.css'
 import  { useState } from "react";
 import ModalDialog from "./components/ModalDialog";
 import Message from "./components/Message.jsx";
