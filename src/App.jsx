@@ -8,7 +8,7 @@ const App = () => {
 
     return (
         <div className="container mt-5 text-center">
-            <h2>Testing Task</h2>
+            <h2>Test Task</h2>
             <button className="btn btn-success" onClick={() => setShowModal(true)}>
                 Open modal window
             </button>
